@@ -1,4 +1,5 @@
 const App = () => {
+	console.log("Hola Mundo");
 	return (
 		<div
 			style={{
